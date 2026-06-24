@@ -1,0 +1,195 @@
+College Name: Sri Indu College of Engineering and Technology
+
+Question: What is the college name?
+Answer: Sri Indu College of Engineering and Technology
+
+Question: Where is the college located?
+Answer: Sheriguda, Ibrahimpatnam, Ranga Reddy, Telangana, India
+
+Question: Who is the principal?
+Answer: Dr. G. Suresh
+
+Question: What is the affiliation?
+Answer: JNTUH Autonomous College
+
+Question: What is the CSE fee?
+Answer: ₹75,000 per year
+
+Question: When are exams?
+Answer: Mid exams start from April 20. Semester exams start from May 15.
+
+Question: What is Monday timetable?
+Answer: 9:00 AM Python, 10:00 AM DBMS, 11:00 AM Operating Systems, 2:00 PM Lab
+
+Question: Placement details?
+Answer: Highest package 12 LPA, Average package 4.5 LPA
+
+Location:
+Sheriguda, Ibrahimpatnam,
+Ranga Reddy District,
+Hyderabad, Telangana - 501510
+
+Affiliation:
+JNTUH Autonomous College
+
+Established:
+2001
+
+Principal:
+Dr. G. Suresh
+
+Contact:
+Principal: 9347363999
+Admissions: 9347306999
+Examination Section: 9912118224
+
+Email:
+info@sriindu.ac.in
+
+Available Facilities:
+Library
+Computer Labs
+Engineering Labs
+Placement Cell
+Hostel
+Transportation
+Sports
+Canteen
+
+College Code:
+INDU
+
+--------------------------------------
+
+Departments Available:
+
+1. Computer Science and Engineering (CSE)
+2. Information Technology (IT)
+3. Electronics and Communication Engineering (ECE)
+4. Electrical and Electronics Engineering (EEE)
+5. Mechanical Engineering
+6. Civil Engineering
+7. Artificial Intelligence and Machine Learning (AI & ML)
+8. Artificial Intelligence and Data Science
+9. Cyber Security
+10. Data Science
+
+Postgraduate Courses:
+M.Tech
+MBA
+MCA
+
+--------------------------------------------
+
+Fee Structure:
+
+B.Tech:
+₹3,00,000 total for 4 years
+
+CSE Fee: ₹75,000 per year
+IT Fee: ₹70,000 per year
+ECE Fee: ₹72,000 per year
+EEE Fee: ₹70,000 per year
+Mechanical Fee: ₹68,000 per year
+Civil Fee: ₹65,000 per year
+
+M.Tech:
+₹1,14,000 total for 2 years
+
+MBA:
+₹54,000 total
+
+Exam Fee:
+₹1,500 per semester
+
+Library Fee:
+₹2,000 per year
+
+Hostel Fee:
+₹60,000 per year
+
+Transport Fee:
+₹25,000 per year
+
+---------------------------------
+
+Placement Information:
+Top recruiters:
+TCS
+Infosys
+Wipro
+Cognizant
+Accenture
+Tech Mahindra
+Capgemini
+
+Placement Officer:
+Mr. R. Venkateswar
+
+Contact:
+9948784777
+
+Placement Status:
+2021-22: 1559 students placed
+2020-21: 696 students placed
+2019-20: 686 students placed
+
+Highest package:
+12 LPA
+
+Average package:
+4.5 LPA
+
+------------------------------------
+
+College timings - 8:30 am to 4:30 pm.
+
+subject timings are:
+Monday
+9:00 AM - Python
+10:00 AM - DBMS
+11:00 AM - OS
+2:00 PM - Lab
+
+Tuesday
+9:00 AM - Java
+10:00 AM - CN
+11:00 AM - AI
+2:00 PM - Seminar
+
+Wednesday
+9:00 AM - Data Science
+10:00 AM - DBMS Lab
+2:00 PM - Mini Project
+------------------------------------
+
+
+Faculty Details:
+
+Principal:
+Dr. G. Suresh
+
+HOD CSE:
+Dr. Ramesh
+
+HOD ECE:
+Prof. Srinivas
+
+HOD EEE:
+Prof. Lakshmi Narayana
+
+HOD Mechanical:
+Prof. Rajesh
+
+HOD Civil:
+Prof. Prasad
+
+Training and Placement: Mr. R. Venkateswar
+-----------------------------------
+Latest Notices
+
+Mid-1 exams start from April 20
+Semester fee last date April 25
+Lab internal exams on April 18
+Campus placements drive by TCS on April 22
+Holiday on April 14 for Ambedkar Jayanti
