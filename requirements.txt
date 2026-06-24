@@ -1,0 +1,11 @@
+langchain>=0.3.0
+langgraph>=0.1.0
+chromadb
+google-generativeai
+python-dotenv
+tiktoken
+streamlit
+streamlit-chat
+huggingface-hub
+sentence-transformers
+langchain-google-genai
